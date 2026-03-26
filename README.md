@@ -1,7 +1,7 @@
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
-  <em>IAM & Cybersecurity Professional</em>
+  <em>IAM & Cybersecurity Professional | Ex-Best Buy</em>
 </p>
 <p align="center">
 </p>
