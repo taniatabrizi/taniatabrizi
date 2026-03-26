@@ -4,7 +4,6 @@
   <em>IAM & Cybersecurity Professional</em>
 </p>
 <p align="center">
-<em>Identity and Access Management Analyst @ Best Buy Canada</em>
 </p>
 
 <p align="center">
