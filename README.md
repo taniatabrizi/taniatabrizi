@@ -71,7 +71,7 @@
 
 **Queued**
 
-![CISM](https://img.shields.io/badge/CISM_Certified_Information_Security_Manager-e3a008?style=flat-square)
+![CISM](https://img.shields.io/badge/CISM_Certified_Information_Security_Manager-queued-888888?style=flat-square)
 
 ![CISSP](https://img.shields.io/badge/CISSP_Certified_Information_Systems_Security_Professional-queued-888888?style=flat-square)
 
