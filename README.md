@@ -68,10 +68,12 @@
 
 ![SC-300](https://img.shields.io/badge/SC--300_Identity_&_Access_Admin-e3a008?style=flat-square&logo=microsoftazure&logoColor=white)
 
+
 **Queued**
 
-![CISM](https://img.shields.io/badge/CISM_Certified_Information_Security_Manager-queued-888888?style=flat-square)
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-queued-888888?style=flat-square)
+![CISM](https://img.shields.io/badge/CISM_Certified_Information_Security_Manager-e3a008?style=flat-square)
+
+![CISSP](https://img.shields.io/badge/CISSP_Certified_Information_Systems_Security_Professional-queued-888888?style=flat-square)
 
 ---
 
