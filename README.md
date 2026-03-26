@@ -1,10 +1,9 @@
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
-  <em>IAM & Cybersecurity Professional</em>
+  <em>IAM & Cybersecurity Professional | Ex-Best Buy</em>
 </p>
 <p align="center">
-<em>Identity and Access Management Analyst @ Best Buy Canada</em>
 </p>
 
 <p align="center">
@@ -67,11 +66,10 @@
 
 **In Progress**
 
-![SC-900](https://img.shields.io/badge/SC--900_Security_&_Compliance_Fundamentals-e3a008?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-300](https://img.shields.io/badge/SC--300_Identity_&_Access_Admin-e3a008?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Queued**
 
-![SC-300](https://img.shields.io/badge/SC--300_Identity_&_Access_Admin-queued-888888?style=flat-square)
 ![CISM](https://img.shields.io/badge/CISM_Certified_Information_Security_Manager-queued-888888?style=flat-square)
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-queued-888888?style=flat-square)
 
