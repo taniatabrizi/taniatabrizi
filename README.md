@@ -18,7 +18,7 @@
 >
 > The experience in this portfolio reflects **real-world enterprise IAM work delivered in a production environment** supporting 15,000+ users across hybrid on-premises and cloud infrastructure.
 >
-> Each area focuses on practical identity security — including identity lifecycle automation, SSO integrations, access governance, privileged access management, and MFA administration — across platforms including **Active Directory, Microsoft Entra ID, SailPoint IdentityIQ, CyberArk, and PingID**.
+> Each area focuses on practical identity security including identity lifecycle automation, SSO integrations, access governance, privileged access management, and MFA administration  across platforms including **Active Directory, Microsoft Entra ID, SailPoint IdentityIQ, CyberArk, and PingID**.
 >
 > The goal is to demonstrate **how an IAM professional designs, operates, and governs identity systems at scale**, enforcing consistent access control, compliance, and security policy across complex enterprise environments.
 
@@ -36,7 +36,7 @@
 | **IAM Automation with PowerShell** | Enterprise delivery | Automated provisioning, deprovisioning, account discovery, attestation, and reporting workflows to improve efficiency and accuracy | PowerShell · Active Directory · Entra ID | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | **Best Buy Express Rollout** | Enterprise delivery | Led requirements gathering, process mapping, UAT, and end-to-end identity system rollout for Best Buy Express store expansion | Active Directory · Entra ID · ServiceNow · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
-> **Focus area:** Managing enterprise identity across hybrid environments. Bridging on-premises Active Directory and cloud platforms including Microsoft Entra ID, SailPoint IdentityIQ, CyberArk, and PingID. Experience covers the full IAM lifecycle — provisioning, access reviews, privileged access, MFA, and offboarding — with PowerShell automation at each stage to reduce manual effort and enforce consistent policy at scale.
+> **Focus area:** Managing enterprise identity across hybrid environments. Bridging on-premises Active Directory and cloud platforms including Microsoft Entra ID, SailPoint IdentityIQ, CyberArk, and PingID. Experience covers the full IAM lifecycle  provisioning, access reviews, privileged access, MFA, and offboarding  with PowerShell automation at each stage to reduce manual effort and enforce consistent policy at scale.
 
 ---
 
