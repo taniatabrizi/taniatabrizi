@@ -1,9 +1,7 @@
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
-  <em>IAM & Cybersecurity Professional | Ex-Best Buy</em>
-</p>
-<p align="center">
+  <em>Identity Engineer | IAM Automation | Entra ID | SailPoint | CyberArk | Python | PowerShell | Microsoft Graph API | SCIM | SAML | OAuth | OIDC | Cloud Identity</em>
 </p>
 
 <p align="center">
@@ -16,64 +14,77 @@
 
 > **Portfolio Note**
 >
-> This portfolio combines **real-world enterprise IAM work delivered in production** with hands-on lab projects that demonstrate depth across identity engineering and cybersecurity governance.
+> This portfolio showcases enterprise Identity & Access Management experience alongside hands-on identity engineering projects focused on automation, lifecycle management, authentication, and cloud identity.
 >
-> Enterprise experience spans 5+ years supporting 15,000+ users across hybrid on-premises and cloud infrastructure. Lab projects are built to close skill gaps and demonstrate hands-on capability across platforms including **Active Directory, Microsoft Entra ID, SailPoint IdentityIQ, CyberArk, and PingID**.
+> Professional experience includes supporting enterprise identity environments serving 15,000+ users across hybrid on-premises and cloud infrastructure using **Microsoft Entra ID, Active Directory, SailPoint IdentityIQ, CyberArk PAM, and PingID**.
 >
-> Together, these projects reflect a practitioner who can **design, operate, govern, and document identity systems at scale** — enforcing consistent access control, compliance, and security policy across complex enterprise environments.
+> Projects demonstrate practical experience designing, automating, and securing identity workflows through scripting, API integrations, identity governance, access controls, and modern authentication technologies.
 
 ---
 
-## 01 · Enterprise Proven
+# 01 · Enterprise IAM Experience
 
-*The following are documented from real production work delivered at Best Buy Canada.*
+*Selected identity engineering and security initiatives delivered in an enterprise production environment.*
 
 | Experience | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
-| **PingID SME & MFA Rollout** | Documentation & outcomes | Served as subject matter expert for PingID, advising on configuration, deployment, and enforcement of MFA standards across the enterprise | PingID · Conditional Access · Entra ID | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **SSO Integration Projects** | Documentation & outcomes | Led SSO integration projects with development, product, and security teams to ensure seamless implementation and optimization of identity solutions | Active Directory · Entra ID · SAML 2.0 · OAuth 2.0 · OIDC | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **Best Buy Express Identity Rollout** | Documentation & outcomes | Led requirements gathering, process mapping, UAT, and end-to-end identity system rollout for Best Buy Express store expansion | Active Directory · Entra ID · ServiceNow · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **Access Certifications & Least Privilege Enforcement** | Documentation & outcomes | Executed periodic access certifications using SailPoint IdentityIQ, identifying over-privileged accounts and driving least-privilege remediation | SailPoint IIQ · RBAC · ABAC · Least Privilege | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **SOX & PCI-DSS Audit Support** | Documentation & outcomes | Provided essential documentation and audit evidence for regulatory compliance reviews, maintaining audit readiness across identity systems | SOX · PCI-DSS · ISO 27001/27002 · Audit Evidence | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **HR Job Code Access Resolution** | Documentation & outcomes | Partnered with HR stakeholders to analyze and resolve access provisioning issues tied to new job codes, mapping business rules to system configuration changes | Active Directory · Entra ID · ServiceNow · Process Mapping | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **PingID MFA Deployment & Identity Security Operations** | Documentation & outcomes | Supported enterprise MFA implementation, configuration validation, troubleshooting, and enforcement of authentication security standards across corporate environments | PingID · Entra ID · Conditional Access · MFA | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **SSO Application Integrations** | Documentation & outcomes | Supported application onboarding and authentication integrations, collaborating with application owners and security teams to implement secure access solutions | Entra ID · Active Directory · SAML 2.0 · OAuth 2.0 · OIDC | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Enterprise Identity Rollout & Access Automation** | Documentation & outcomes | Supported identity rollout activities including requirements gathering, workflow mapping, testing, and production deployment for business expansion initiatives | Active Directory · Entra ID · ServiceNow · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **SailPoint IdentityIQ Governance Operations** | Documentation & outcomes | Supported identity lifecycle management, access certifications, provisioning workflows, role-based access controls, and least-privilege enforcement across enterprise systems | SailPoint IdentityIQ · RBAC · ABAC · IGA | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Privileged Access Management Operations** | Documentation & outcomes | Supported privileged identity security practices including access controls, privileged account governance, and security reviews | CyberArk PAM · Least Privilege · Identity Governance | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Identity Compliance & Access Governance** | Documentation & outcomes | Supported audit readiness through access reviews, certification evidence, remediation tracking, and security control validation | SOX · PCI-DSS · Access Reviews · Audit Evidence | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 ---
 
-## 02 · Home Lab Projects
+# 02 · Identity Engineering Projects
 
-*Built in Azure free tier and VM environments to demonstrate hands-on technical depth.*
+*Hands-on projects built using Azure labs and virtual environments to demonstrate identity engineering skills.*
 
 | Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
-| **Hybrid Identity Setup: On-Prem AD → Entra ID Sync + Conditional Access** | Video & Screenshots | Syncs on-premises Active Directory to Entra ID via Entra Connect, configures Conditional Access policies and MFA enforcement to demonstrate how identity systems connect across hybrid environments | Active Directory · Entra ID · Entra Connect · Conditional Access · MFA | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
-| **ISO 27001 Control Mapping Document** | Published document | Maps a defined set of IAM controls to ISO 27002, written as a formal standards document with Statements of Applicability — simulating the output of a cybersecurity governance analyst | ISO 27002 · Excel · Word · GRC | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
-| **Mock Access Control Policy** | Published document | Authors a formal Access Control Policy mapped to ISO 27002 requirements, demonstrating ability to develop, structure, and communicate cybersecurity standards documentation | ISO 27002 · Policy Writing · GRC | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
-| **Access Review & Certification Workflow** | Video & Screenshots | Simulates periodic access reviews in Entra ID where permissions are approved or revoked, with audit logs exported for compliance and governance review | Entra ID · Access Reviews · Audit Logs · CSV | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
-| **Privileged Access: Just-in-Time Role Elevation (PIM)** | Video & Screenshots | Implements a workflow for requesting and granting temporary elevated access with approval gates and automatic expiration using Entra PIM | Entra ID · PIM · Approval Workflow · JIT | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
-| **IAM Automation with PowerShell** | Video & Screenshots | Automates user provisioning, deprovisioning, bulk account discovery, attestation, and reporting across Active Directory to reduce manual effort and enforce consistent policy | PowerShell · Active Directory · Entra ID | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
+| **Hybrid Identity: Active Directory → Entra ID Synchronization** | Screenshots & documentation | Builds a hybrid identity environment by synchronizing on-premises Active Directory identities into Microsoft Entra ID and implementing cloud authentication controls | Active Directory · Entra Connect · Entra ID · Conditional Access · MFA | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| **IAM Automation with PowerShell** | Code Repository | Automates identity administration tasks including account discovery, provisioning, deprovisioning, reporting, and access validation workflows | PowerShell · Active Directory · Entra ID | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| **Entra ID Automation with Microsoft Graph API** | Code Repository | Develops Python automation workflows for identity operations including user queries, group management, reporting, and lifecycle automation | Python · Microsoft Graph API · OAuth 2.0 · Entra ID | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| **SCIM Identity Lifecycle Provisioning Lab** | Code Repository | Demonstrates automated user provisioning and deprovisioning between identity providers and SaaS applications using modern identity standards | Python · REST API · SCIM · OAuth 2.0 | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
+| **Access Review & Certification Workflow** | Screenshots & documentation | Simulates identity governance workflows where access is reviewed, approved, revoked, and tracked through audit reporting | Entra ID · Access Reviews · Audit Logs · CSV | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
+| **Privileged Identity Management (PIM) JIT Access Workflow** | Screenshots & documentation | Implements temporary privileged access workflows with approval gates, time-based elevation, and automatic expiration | Entra ID PIM · JIT Access · Approval Workflow | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
 
 ---
 
-## 03 · Certifications
+# 03 · Security Governance Projects
 
-**Earned**
+*Projects demonstrating security standards and identity governance practices.*
 
-![PAM](https://img.shields.io/badge/Privileged_Access_Management_(PAM)_for_Securities-2ea44f?style=flat-square)
+| Project | Proof | Purpose | Stack | Status |
+|---|---|---|---|---|
+| **ISO 27001/27002 IAM Control Mapping** | Published Document | Maps identity security controls against ISO requirements and documents implementation considerations | ISO 27001 · ISO 27002 · IAM Controls | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| **Access Control Policy Development** | Published Document | Creates a formal access control policy aligned with security standards and identity governance principles | Policy Writing · ISO 27002 · IAM Governance | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
+
+---
+
+# 04 · Certifications & Training
+
+## Completed
 
 ![SailPoint](https://img.shields.io/badge/SailPoint_IdentityIQ_Core_Training-0078D4?style=flat-square)
 
 ![Azure IAM](https://img.shields.io/badge/Microsoft_Azure_Identity_&_Access_Management-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**In Progress**
-
-![SC-300](https://img.shields.io/badge/SC--300_Identity_&_Access_Admin-e3a008?style=flat-square&logo=microsoftazure&logoColor=white)
+![PAM](https://img.shields.io/badge/Privileged_Access_Management_(PAM)-2ea44f?style=flat-square)
 
 
-**Queued**
+## In Progress
 
-![CISM](https://img.shields.io/badge/CISM_Certified_Information_Security_Manager-queued-888888?style=flat-square)
+![SC-300](https://img.shields.io/badge/SC--300_Identity_and_Access_Administrator-e3a008?style=flat-square&logo=microsoftazure&logoColor=white)
 
-![CISSP](https://img.shields.io/badge/CISSP_Certified_Information_Systems_Security_Professional-queued-888888?style=flat-square)
+
+## Planned
+
+![CISSP](https://img.shields.io/badge/CISSP-888888?style=flat-square)
+
+![CISM](https://img.shields.io/badge/CISM-888888?style=flat-square)
+
 
 ---
 
