@@ -18,13 +18,13 @@ Building identity automation, governance, and cloud IAM solutions using Microsof
 >
 > This portfolio showcases enterprise Identity & Access Management experience alongside hands-on identity engineering projects focused on automation, lifecycle management, authentication, and cloud identity.
 >
-> Professional experience includes supporting enterprise identity environments serving 15,000+ users across hybrid on-premises and cloud infrastructure using **Microsoft Entra ID, Active Directory, SailPoint IdentityIQ, CyberArk PAM, and PingID**.
+> Professional experience includes engineering and supporting enterprise identity environments serving 15,000+ users across hybrid on-premises and cloud infrastructure using **Microsoft Entra ID, Active Directory, SailPoint IdentityIQ, CyberArk PAM, and PingID**.
 >
 > Projects demonstrate practical experience designing, automating, and securing identity workflows through scripting, API integrations, identity governance, access controls, and modern authentication technologies.
 
 ---
 
-# 01 · Enterprise IAM Experience
+# 01 · Enterprise Identity Engineering Experience
 
 *Selected identity engineering and security initiatives delivered in an enterprise production environment.*
 
@@ -33,9 +33,9 @@ Building identity automation, governance, and cloud IAM solutions using Microsof
 | **PingID MFA Deployment & Identity Security Operations** | Documentation & outcomes | Supported enterprise MFA implementation, configuration validation, troubleshooting, and enforcement of authentication security standards across corporate environments | PingID · Entra ID · Conditional Access · MFA | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | **SSO Application Integrations** | Documentation & outcomes | Supported application onboarding and authentication integrations, collaborating with application owners and security teams to implement secure access solutions | Entra ID · Active Directory · SAML 2.0 · OAuth 2.0 · OIDC | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | **Enterprise Identity Rollout & Access Automation** | Documentation & outcomes | Supported identity rollout activities including requirements gathering, workflow mapping, testing, and production deployment for business expansion initiatives | Active Directory · Entra ID · ServiceNow · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **SailPoint IdentityIQ Governance Operations** | Documentation & outcomes | Supported identity lifecycle management, access certifications, provisioning workflows, role-based access controls, and least-privilege enforcement across enterprise systems | SailPoint IdentityIQ · RBAC · ABAC · IGA | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **SailPoint IdentityIQ Governance Operations** | Documentation & outcomes | Supported SailPoint IdentityIQ identity lifecycle processes including provisioning workflows, access certifications, role-based access controls, identity governance activities, and least-privilege enforcement across enterprise applications | SailPoint IdentityIQ · RBAC · ABAC · IGA | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | **Privileged Access Management Operations** | Documentation & outcomes | Supported privileged identity security practices including access controls, privileged account governance, and security reviews | CyberArk PAM · Least Privilege · Identity Governance | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **Identity Compliance & Access Governance** | Documentation & outcomes | Supported audit readiness through access reviews, certification evidence, remediation tracking, and security control validation | SOX · PCI-DSS · Access Reviews · Audit Evidence | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Identity Compliance & Access Governance** | Documentation & outcomes | Supported access governance activities through access reviews, certification evidence, remediation tracking, and security control validation | SOX · PCI-DSS · Access Reviews · Audit Evidence | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 ---
 
@@ -46,7 +46,7 @@ Building identity automation, governance, and cloud IAM solutions using Microsof
 | Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
 | **Hybrid Identity: Active Directory → Entra ID Synchronization** | Screenshots & documentation | Builds a hybrid identity environment by synchronizing on-premises Active Directory identities into Microsoft Entra ID and implementing cloud authentication controls | Active Directory · Entra Connect · Entra ID · Conditional Access · MFA | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
-| **IAM Automation with PowerShell** | Code Repository | Automates identity administration tasks including account discovery, provisioning, deprovisioning, reporting, and access validation workflows | PowerShell · Active Directory · Entra ID | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| **IAM Automation with PowerShell** | Code Repository | Develops PowerShell automation scripts for identity lifecycle operations including user provisioning, deprovisioning, account discovery, access validation, and IAM reporting workflows | PowerShell · Active Directory · Entra ID | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
 | **Entra ID Automation with Microsoft Graph API** | Code Repository | Develops Python automation workflows for identity operations including user queries, group management, reporting, and lifecycle automation | Python · Microsoft Graph API · OAuth 2.0 · Entra ID | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
 | **SCIM Identity Lifecycle Provisioning Lab** | Code Repository | Demonstrates automated user provisioning and deprovisioning between identity providers and SaaS applications using modern identity standards | Python · REST API · SCIM · OAuth 2.0 | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
 | **Access Review & Certification Workflow** | Screenshots & documentation | Simulates identity governance workflows where access is reviewed, approved, revoked, and tracked through audit reporting | Entra ID · Access Reviews · Audit Logs · CSV | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
@@ -54,7 +54,40 @@ Building identity automation, governance, and cloud IAM solutions using Microsof
 
 ---
 
-# 03 · Security Governance Projects
+# 03 · Technical Skills
+
+**Identity Platforms**
+- Microsoft Entra ID
+- Active Directory
+- SailPoint IdentityIQ
+- CyberArk PAM
+- PingID
+
+**Identity Protocols**
+- SAML 2.0
+- OAuth 2.0
+- OpenID Connect (OIDC)
+- SCIM
+
+**Automation & Development**
+- PowerShell
+- Python
+- Microsoft Graph API
+- SQL
+- REST API Integration
+
+**Identity Security Practices**
+- RBAC
+- ABAC
+- Least Privilege
+- Joiner/Mover/Leaver Lifecycle
+- Identity Governance
+- Access Certifications
+- Privileged Access Management
+
+---
+
+# 04 · Security Governance Projects
 
 *Projects demonstrating security standards and identity governance practices.*
 
@@ -65,7 +98,7 @@ Building identity automation, governance, and cloud IAM solutions using Microsof
 
 ---
 
-# 04 · Certifications & Training
+# 05 · Certifications & Training
 
 ## Completed
 
@@ -83,10 +116,9 @@ Building identity automation, governance, and cloud IAM solutions using Microsof
 
 ## Planned
 
-![CISSP](https://img.shields.io/badge/CISSP-888888?style=flat-square)
+![Okta](https://img.shields.io/badge/Okta_Certified_Professional-888888?style=flat-square)
 
-![CISM](https://img.shields.io/badge/CISM-888888?style=flat-square)
-
+![AWS Security](https://img.shields.io/badge/AWS_Security_Specialty-888888?style=flat-square)
 
 ---
 
