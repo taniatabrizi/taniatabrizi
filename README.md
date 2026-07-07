@@ -1,7 +1,9 @@
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
-  <em>Identity Analyst to Engineer | IAM Automation | Entra ID | SailPoint | CyberArk | Python | PowerShell | Microsoft Graph API | SCIM | SAML | OAuth | OIDC | Cloud Identity</em>
+  <em>Identity & Access Management Engineer
+<br></br>
+Building identity automation, governance, and cloud IAM solutions using Microsoft Entra ID, SailPoint, PowerShell, and Python.</em>
 </p>
 
 <p align="center">
