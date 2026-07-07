@@ -1,7 +1,7 @@
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
-  <em>Identity Engineer | IAM Automation | Entra ID | SailPoint | CyberArk | Python | PowerShell | Microsoft Graph API | SCIM | SAML | OAuth | OIDC | Cloud Identity</em>
+  <em>Identity Analyst to Engineer | IAM Automation | Entra ID | SailPoint | CyberArk | Python | PowerShell | Microsoft Graph API | SCIM | SAML | OAuth | OIDC | Cloud Identity</em>
 </p>
 
 <p align="center">
