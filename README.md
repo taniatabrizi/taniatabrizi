@@ -1,7 +1,7 @@
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
-  <em>Identity & Access Management Engineer
+  <em>IAM Analyst → Identity Engineer
 <br></br>
 Building identity automation, governance, and cloud IAM solutions using Microsoft Entra ID, SailPoint, PowerShell, and Python.</em>
 </p>
