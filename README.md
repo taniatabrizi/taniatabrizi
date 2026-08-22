@@ -1,5 +1,3 @@
-# GitHub IAM Portfolio README
-
 <h1 align="center">Tania Tabrizi</h1>
 
 <p align="center">
